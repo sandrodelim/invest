@@ -28,6 +28,8 @@ https://blog.nelogica.com.br/mercado-de-opcoes-o-guia-definitivo/
 https://blog.nelogica.com.br/bdrs-aprenda-o-que-sao-e-como-usar-para-diversificar-carteiras/
 
 
+## Módulo de estratégias
+https://linklist.bio/AutomatizadodeEstrategias
 
 
 
